@@ -9,7 +9,7 @@ namespace MailSender
 {
     public class MailClient
     {
-        public string sSmtpClient = "smpt.office365.com";
+        public string sSmtpClient = "smtp.office365.com";
         public string sUsername = "racunarac@vsmti.hr";
         public string sPassword = "Racunarstvo123";
         public int nPort = 587;
